@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 
-url = "https://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis"
-
 def scrape_course_data(url):
     # Set up soup
     response = requests.get(url)
