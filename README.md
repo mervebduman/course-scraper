@@ -3,6 +3,8 @@
 ## Overview
 This Python script automatically scrapes course information from a list of URLs provided in a text file and saves the data into a CSV file. The scraped information includes the course name, duration, time commitment, tags (subject), course description, and the URL of each course.
 
+The repository contains example input `urls.txt` and output `course_data.csv`.
+
 ## Prerequisites
 Make sure you have [Python](https://www.python.org/downloads/) and [Poetry](https://python-poetry.org/docs/#installation) installed on your system.
 
