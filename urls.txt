@@ -1,0 +1,12 @@
+https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
+https://pll.harvard.edu/course/science-corresponding-busy-people-webinar
+https://pll.harvard.edu/course/exercising-leadership-foundational-principles
+https://pll.harvard.edu/course/prescription-drug-regulation-cost-and-access-current-controversies-context
+https://pll.harvard.edu/course/data-science-inference-and-modeling
+https://pll.harvard.edu/course/data-analysis-life-sciences-7-case-studies-functional-genomics
+https://pll.harvard.edu/course/data-analysis-life-sciences-5-introduction-bioconductor-annotation-and-analysis-genomes-and
+https://pll.harvard.edu/course/data-analysis-life-sciences-6-high-performance-computing-reproducible-genomics
+https://pll.harvard.edu/course/statistics-and-r
+https://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis
+https://pll.harvard.edu/course/data-analysis-life-sciences-3-statistical-inference-and-modeling-high-throughput-experiments
+https://pll.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science
